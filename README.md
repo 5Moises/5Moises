@@ -5,9 +5,9 @@
 
  <p>- <i>¡Hola! Soy un apasionado ingeniero de sistemas con experiencia destacada en el desarrollo y programación, especializado en Odoo. Mi sólido conocimiento en lenguajes como Python, Java, React, JavaScript, PHP, Laravel y SQL me permite abordar proyectos de manera integral, desde la concepción hasta la implementación. Con un enfoque meticuloso en la optimización y eficiencia del software, he contribuido al éxito de numerosos proyectos, destacándome por mi habilidad para diseñar soluciones robustas y escalables. Mi compromiso con la innovación y la excelencia técnica me impulsa a estar siempre al tanto de las últimas tendencias tecnológicas, asegurando así que cada proyecto alcance su máximo potencial. ¡Estoy emocionado por continuar creciendo y aportar mi experiencia a desafíos futuros!.</i></p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-## ⚡🙋‍♂️ Sobre mim
+## ⚡🙋‍♂️ Sobre mi
 
 </br>
 
