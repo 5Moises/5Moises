@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-
-# Hola👋, Bienvenido a mi Perfl Github
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+# Hola👋, Bienvenido a mi Perfil Github
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
 
