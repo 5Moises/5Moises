@@ -1,7 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 # Hola👋, Bienvenido a mi Perfil Github
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
 
  <p>- <i>¡Hola! Soy un apasionado ingeniero de sistemas con experiencia destacada en el desarrollo y programación, especializado en Odoo. Mi sólido conocimiento en lenguajes como Python, Java, React, JavaScript, PHP, Laravel y SQL me permite abordar proyectos de manera integral, desde la concepción hasta la implementación. Con un enfoque meticuloso en la optimización y eficiencia del software, he contribuido al éxito de numerosos proyectos, destacándome por mi habilidad para diseñar soluciones robustas y escalables. Mi compromiso con la innovación y la excelencia técnica me impulsa a estar siempre al tanto de las últimas tendencias tecnológicas, asegurando así que cada proyecto alcance su máximo potencial. ¡Estoy emocionado por continuar creciendo y aportar mi experiencia a desafíos futuros!.</i></p>
 
